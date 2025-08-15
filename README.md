@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Huynh Thanh Tan! 
 
 [![GitHub followers](https://img.shields.io/github/followers/mxking267?style=social)](https://github.com/mxking267)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/thanh-tan-19628a23a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-tan-19628a23a)
 
 **💻 Full-Stack Developer | 🚀 Flutter & React Specialist | 🌱 CI/CD Enthusiast**
 
